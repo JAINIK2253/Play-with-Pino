@@ -1,5 +1,3 @@
-Let’s imagine **Pino** is a sleek, responsive, and visually appealing frontend design project built using HTML, CSS, and JavaScript.
-
 ---
 
 ## 🎨 Project Title: **Pino – Frontend UI Design**
