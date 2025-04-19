@@ -74,4 +74,3 @@ A user browsing your online portfolio built with **Pino** is greeted with a smoo
 
 ---
 
-Let me know if you'd like a sample code snippet, a README version for GitHub, or to expand this into a full live web app!
